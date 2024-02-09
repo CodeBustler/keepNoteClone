@@ -1,4 +1,5 @@
 # Keep Note 
-keepNoteClone By using HTML, CSS &amp; JavaScript 
+By using HTML, CSS &amp; JavaScript 
 
 ## Live
+https://note-app-cb.netlify.app/
